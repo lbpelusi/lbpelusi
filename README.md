@@ -13,8 +13,9 @@ Sou técnico em Análise e Desenvolvimento de Sistemas pela ETEC Paulistano e ta
 
 ## 💻 Contact Me
 ###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'My LinkedIn Profile')](https://www.linkedin.com/in/lbiagiopelusi/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 'My email')](mailto:lbiagiopelusi@outlook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbpelusi/)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbiagiopelusi/)
 
  ## 🚀 Skills
 
