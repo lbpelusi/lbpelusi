@@ -1,47 +1,72 @@
-## 👋 Olá sou Leonardo Biagio Pelusi!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lbpelusi.lbpelusi" />
 
-💻 Analista de Sistemas pela FATEC-SP.<br>
-👨‍💼 Desenvolvedor Front-End Jr. Flutter | Dart
-🏡 Brazil, São Paulo, SP.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey!+👋;+I'm+Leonardo+Biagio+Pelusi!;" />
+</h1>
 
-## 🎓 Sobre Mim 
-###
-Olá,
-Meu nome é Leonardo Biagio Pelusi, tenho 20 anos, atualmente trabalho como desenvolvedor front-ent em Flutter, procuro evoluir minhas habilidades e aprender cada vez mais na área de Tecnologia.
+<h3 align="center">A software developer from Brazil 🇧🇷</h3>
 
-Sou técnico em Análise e Desenvolvimento de Sistemas pela ETEC Paulistano e também sou tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC SP;
+<br/>
 
-## 💻 Contact Me
-###
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 'My LinkedIn Profile')](https://www.linkedin.com/in/lbiagiopelusi/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 'My email')](mailto:lbiagiopelusi@outlook.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lbpelusi/)
+<div align="center">
+ 
+ 🔭 I’m currently working on **my web portfolio**
+ 
+ 🌱 I’m currently learning **Flutter, Dart, Firebase**
 
- ## 🚀 Skills
+💬 Ask me about **Flutter, Firebase... or anything [here](https://github.com/lbpelusi/lbpelusi/issues)**
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase)](https://skillicons.dev)
+ </div>
 
-<!-- ## 🎖️ Certificados
-* ⌛ Udemy, **Especialista em AutoCAD** *(Janeiro de 2024)*
-* ✅ Cruzeiro do Sul, **Análise de Desenvolvimento de Sistemas** *(Janeiro de 2020)*
-* ✅ Oracle, **Oracle Cloud Infrastructure Foundations** *(Outubro de 2022)*
-* ✅ Udemy, **Java COMPLETO Programação Orientada a Objetos + Spring Boot** *(Outubro de 2022)*
-* ✅ HackerRank, **Python** *(10 horas, Setembro de 2022)*
-* ✅ Ginead, **Programação Aplicada a Mecatrônica** *(40 horas, Setembro de 2022)*
-* ✅ Udemy, **Python Basic to Advanced** *(113.5 horas, Setembro de 2022)*
-* ✅ Curso em Video, **Python Basic** *(40 horas, Setembro de 2022)*
-* ✅ Alfahelix, **Sistema Operacional Linux - Avançado** *(10 horas, Agosto de 2022)*
-* ✅ Alfahelix, **Introdução ao Sistema Operacional Linux** *(8 horas, Agosto de 2022)*
-* ✅ Fundção Bradesco, **Data Modeling** *(10 horas, Julho de 2022)*
-* ✅ Fundação Bradesco, **Database Administration** *(10 horas, Julho de 2022)*
-* ✅ Fundação Bradesco, **Implementing DataBase** *(10 horas, Julho de 2022)*
-* ✅ HackerRank, **SQL** *(30 horas, Abril de 2022)*
-* ✅ HackerRank, **SQL Intermediate** *(30 horas, Abril de 2022)*
-* ✅ Udemy, **Desenvolvimento Web** *(80 horas, Março de 2022)*
-* ✅ Udemy, **Design Thinking** *(112.5 horas, Fevereiro de 2022)*
-* ✅ Academia do Programador, **Programação** *(180.5 horas, Fevereiro de 2021)*
-* ✅ GigaByte, **Tecnologia Avançada** *(120 horas, Setembro de 2020)*
-* ✅ GigaByte, **Criação de Games** *(50 horas, Junho de 2020)*
-* ✅ GigaByte, **Hardware e Redes** *(40 horas, Março de 2020)*
-* ✅ GigaByte, **Marketing Digital** *(10 horas, Fevereiro de 2020)*
-* ✅ GigaByte, **Informática Avançada** *(200 horas, Janeiro de 2020)* -->
+  <hr/>
+ 
+<h2 align="center">🚀 Languages-Frameworks-Tools 🚀</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lbpelusi/lbpelusi/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img src="https://streak-stats.demolab.com?user=lbpelusi&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lbpelusi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbpelusi&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+<br/><br/> 
+
+<hr/>
+
+ <h2 align="center">💻 Contact Me 💻</h2>
+<br/>
+ 
+<div align="center"> 
+ <a href="https://www.linkedin.com/in/lbiagiopelusi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a> 
+ <a href="mailto:lbiagiopelusi@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/lbpelusi/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br/>
